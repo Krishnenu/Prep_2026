@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "category": "Pome",
+    "color": "Red"
+  },
+  {
+    "id": 2,
+    "name": "Pear",
+    "category": "Pome",
+    "color": "Green"
+  },
+  {
+    "id": 3,
+    "name": "Peach",
+    "category": "Stone Fruit",
+    "color": "Orange"
+  },
+  {
+    "id": 4,
+    "name": "Nectarine",
+    "category": "Stone Fruit",
+    "color": "Orange"
+  },
+  {
+    "id": 5,
+    "name": "Apricot",
+    "category": "Stone Fruit",
+    "color": "Orange"
+  },
+  {
+    "id": 6,
+    "name": "Plum",
+    "category": "Stone Fruit",
+    "color": "Purple"
+  },
+  {
+    "id": 7,
+    "name": "Cherry",
+    "category": "Stone Fruit",
+    "color": "Red"
+  },
+  {
+    "id": 8,
+    "name": "Grape",
+    "category": "Berry",
+    "color": "Purple"
+  },
+  {
+    "id": 9,
+    "name": "Kiwi",
+    "category": "Berry",
+    "color": "Brown"
+  },
+  {
+    "id": 10,
+    "name": "Fig",
+    "category": "Syconium",
+    "color": "Purple"
+  },
+  {
+    "id": 11,
+    "name": "Orange",
+    "category": "Citrus",
+    "color": "Orange"
+  },
+  {
+    "id": 12,
+    "name": "Lemon",
+    "category": "Citrus",
+    "color": "Yellow"
+  },
+  {
+    "id": 13,
+    "name": "Lime",
+    "category": "Citrus",
+    "color": "Green"
+  },
+  {
+    "id": 14,
+    "name": "Grapefruit",
+    "category": "Citrus",
+    "color": "Pink"
+  },
+  {
+    "id": 15,
+    "name": "Tangerine",
+    "category": "Citrus",
+    "color": "Orange"
+  },
+  {
+    "id": 16,
+    "name": "Pomelo",
+    "category": "Citrus",
+    "color": "Green"
+  },
+  {
+    "id": 17,
+    "name": "Kumquat",
+    "category": "Citrus",
+    "color": "Orange"
+  },
+  {
+    "id": 18,
+    "name": "Blood Orange",
+    "category": "Citrus",
+    "color": "Red"
+  },
+  {
+    "id": 19,
+    "name": "Clementine",
+    "category": "Citrus",
+    "color": "Orange"
+  },
+  {
+    "id": 20,
+    "name": "Yuzu",
+    "category": "Citrus",
+    "color": "Yellow"
+  },
+  {
+    "id": 21,
+    "name": "Banana",
+    "category": "Tropical",
+    "color": "Yellow"
+  },
+  {
+    "id": 22,
+    "name": "Pineapple",
+    "category": "Tropical",
+    "color": "Yellow"
+  },
+  {
+    "id": 23,
+    "name": "Mango",
+    "category": "Tropical",
+    "color": "Orange"
+  },
+  {
+    "id": 24,
+    "name": "Papaya",
+    "category": "Tropical",
+    "color": "Orange"
+  },
+  {
+    "id": 25,
+    "name": "Dragon Fruit",
+    "category": "Tropical",
+    "color": "Pink"
+  },
+  {
+    "id": 26,
+    "name": "Passion Fruit",
+    "category": "Tropical",
+    "color": "Purple"
+  },
+  {
+    "id": 27,
+    "name": "Guava",
+    "category": "Tropical",
+    "color": "Green"
+  },
+  {
+    "id": 28,
+    "name": "Lychee",
+    "category": "Tropical",
+    "color": "Red"
+  },
+  {
+    "id": 29,
+    "name": "Star Fruit",
+    "category": "Tropical",
+    "color": "Yellow"
+  },
+  {
+    "id": 30,
+    "name": "Durian",
+    "category": "Tropical",
+    "color": "Green"
+  },
+  {
+    "id": 31,
+    "name": "Jackfruit",
+    "category": "Tropical",
+    "color": "Green"
+  },
+  {
+    "id": 32,
+    "name": "Mangosteen",
+    "category": "Tropical",
+    "color": "Purple"
+  },
+  {
+    "id": 33,
+    "name": "Rambutan",
+    "category": "Tropical",
+    "color": "Red"
+  },
+  {
+    "id": 34,
+    "name": "Persimmon",
+    "category": "Tropical",
+    "color": "Orange"
+  },
+  {
+    "id": 35,
+    "name": "Coconut",
+    "category": "Tropical",
+    "color": "Brown"
+  },
+  {
+    "id": 36,
+    "name": "Strawberry",
+    "category": "Berry",
+    "color": "Red"
+  },
+  {
+    "id": 37,
+    "name": "Blueberry",
+    "category": "Berry",
+    "color": "Blue"
+  },
+  {
+    "id": 38,
+    "name": "Raspberry",
+    "category": "Berry",
+    "color": "Red"
+  },
+  {
+    "id": 39,
+    "name": "Blackberry",
+    "category": "Berry",
+    "color": "Black"
+  },
+  {
+    "id": 40,
+    "name": "Cranberry",
+    "category": "Berry",
+    "color": "Red"
+  },
+  {
+    "id": 41,
+    "name": "Gooseberry",
+    "category": "Berry",
+    "color": "Green"
+  },
+  {
+    "id": 42,
+    "name": "Elderberry",
+    "category": "Berry",
+    "color": "Black"
+  },
+  {
+    "id": 43,
+    "name": "Mulberry",
+    "category": "Berry",
+    "color": "Purple"
+  },
+  {
+    "id": 44,
+    "name": "Huckleberry",
+    "category": "Berry",
+    "color": "Blue"
+  },
+  {
+    "id": 45,
+    "name": "Goji Berry",
+    "category": "Berry",
+    "color": "Red"
+  },
+  {
+    "id": 46,
+    "name": "Avocado",
+    "category": "Berry",
+    "color": "Green"
+  },
+  {
+    "id": 47,
+    "name": "Tomato",
+    "category": "Berry",
+    "color": "Red"
+  },
+  {
+    "id": 48,
+    "name": "Pomegranate",
+    "category": "Berry",
+    "color": "Red"
+  },
+  {
+    "id": 49,
+    "name": "Watermelon",
+    "category": "Melon",
+    "color": "Green"
+  },
+  {
+    "id": 50,
+    "name": "Cantaloupe",
+    "category": "Melon",
+    "color": "Tan"
+  }
+]
