@@ -60,7 +60,7 @@ const obj = {
   getName() {
     setTimeout(
       function () {
-        console.log(this.name);
+        console.log(this);
       }.bind(this),
       0,
     );

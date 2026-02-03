@@ -7,6 +7,29 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+## Testing
+
+This project includes comprehensive test coverage using Jest and React Testing Library.
+
+### Available Commands
+
+```bash
+# Run tests with coverage (shows in console)
+npm test
+
+# Run tests in watch mode (for development)
+npm run test:watch
+
+# Run tests with coverage report (same as npm test)
+npm run test:coverage
+```
+
+### Coverage Reports
+
+Coverage is displayed in the console after running tests. For a detailed, interactive HTML report, open `coverage/index.html` in your browser.
+
+
+
 ## React Compiler
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
