@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./styles.css";
+import "../styles/JobPortal.css";
 
 type Job = {
   id: number;
@@ -8,7 +8,7 @@ type Job = {
   time: number;
 };
 
-export default function App() {
+export default function JobPortal() {
   const [jobIds, setJobIds] = useState<number[]>([]);
   const [page, setPage] = useState<number>(0);
   const [jobs, setJobs] = useState<Job[]>([]);
@@ -47,7 +47,6 @@ export default function App() {
           return res.json();
         }),
       );
-
       setJobs((prev) => [...prev, ...data]);
     } catch (err) {
       console.error(err);
