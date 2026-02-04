@@ -1,5 +1,5 @@
 import { useState } from "react";
-import fruits from "../mockData/fruitList.json";
+import fruits from "../__mocks__/fruitList.json";
 
 export const DebounceList = () => {
   const [fruitList, setFruitList] = useState(fruits);
