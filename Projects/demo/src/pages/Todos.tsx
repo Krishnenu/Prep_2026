@@ -1,16 +1,21 @@
 import { useEffect, useState } from "react";
 
-export const Todos = () => {
-  //https://jsonplaceholder.typicode.com/todos
+type Todo = {
+  userId: number;
+  id: number;
+  title: string;
+  completed: boolean;
+};
 
-  const [todoItem, setToDoItem] = useState([]);
+export const Todos = () => {
+  const [todoItem, setToDoItem] = useState<Todo[]>([]);
   const fetchTodos = async () => {
     try {
       const res = await fetch("https://jsonplaceholder.typicode.com/todos");
       const data = await res.json();
       setToDoItem(data);
     } catch (error) {
-      console.log(error);
+      setError("Failed to load todos");
     }
   };
 
