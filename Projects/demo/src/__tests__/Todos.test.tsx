@@ -9,9 +9,8 @@ const mockTodos = [
 beforeEach(() => {
   global.fetch = jest.fn().mockResolvedValue({
     json: jest.fn().mockResolvedValue(mockTodos),
-  } as unknown as Response);
+  });
 });
-
 afterEach(() => {
   jest.restoreAllMocks();
 });
@@ -22,7 +21,17 @@ test("fetches and displays todo items", async () => {
   expect(await screen.findByText("Learn Jest")).toBeInTheDocument();
   expect(await screen.findByText("Write tests")).toBeInTheDocument();
 
-  expect(global.fetch).toHaveBeenCalledWith(
+  expect(globalThis.fetch).toHaveBeenCalledWith(
     "https://jsonplaceholder.typicode.com/todos",
   );
+});
+
+test("shows error message when fetch fails", async () => {
+  globalThis.fetch = jest.fn().mockRejectedValue(new Error("Network error"));
+
+  render(<Todos />);
+
+  expect(await screen.findByText("Failed to load todos")).toBeInTheDocument();
+
+  expect(screen.queryByText("Learn Jest")).not.toBeInTheDocument();
 });
