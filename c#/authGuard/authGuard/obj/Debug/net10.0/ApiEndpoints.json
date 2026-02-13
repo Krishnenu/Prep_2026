@@ -2,11 +2,43 @@
   {
     "ContainingType": "authGuard.Controllers.UsersController",
     "Method": "GetUsers",
-    "RelativePath": "api/users",
+    "RelativePath": "users",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "authGuard.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "authGuard.Models.Users",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "authGuard.Controllers.UsersController",
+    "Method": "DeleteUser",
+    "RelativePath": "users/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   }
 ]

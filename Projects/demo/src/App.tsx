@@ -1,6 +1,8 @@
 // import JobPortal from "./pages/JobPortal";
 
-import { Todos } from "./pages/Todos";
+import { Users } from "./pages/Users";
+
+// import { Todos } from "./pages/Todos";
 
 // import Test from "./pages/Test";
 
@@ -10,7 +12,8 @@ function App() {
       {/* <DebounceList /> */}
       {/* <JobPortal /> */}
       {/* <Test /> */}
-      <Todos />
+      {/* <Todos /> */}
+      <Users />
     </div>
   );
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("authGuard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdf18b7e22a9caa4364b21e6046abfdb4c0a904c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1de3382d834759ae8073038aee095808dfd2f197")]
 [assembly: System.Reflection.AssemblyProductAttribute("authGuard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("authGuard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|solutionrelative:authguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\services\\userimplimentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|solutionrelative:authguard\\services\\userimplimentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\interface\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|solutionrelative:authguard\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|solutionrelative:authguard\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\dbcontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|solutionrelative:authguard\\dbcontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\services\\userimplimentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|solutionrelative:authguard\\services\\userimplimentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|solutionrelative:authguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|solutionrelative:authguard\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|solutionrelative:authguard\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AABA859D-B250-51B1-ADEA-86F2367839BC}|authGuard\\authGuard.csproj|c:\\users\\user\\desktop\\prep_2026\\c#\\authguard\\authguard\\authguard.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -42,13 +46,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "authGuard\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\Properties\\launchSettings.json",
+              "RelativeToolTip": "authGuard\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-12T07:42:06.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\DBContext\\DataContext.cs",
               "RelativeDocumentMoniker": "authGuard\\DBContext\\DataContext.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\DBContext\\DataContext.cs",
               "RelativeToolTip": "authGuard\\DBContext\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T19:51:28.915Z",
               "EditorCaption": ""
@@ -61,7 +78,7 @@
               "RelativeDocumentMoniker": "authGuard\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\Controllers\\UserController.cs",
               "RelativeToolTip": "authGuard\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswBMAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T19:51:21.595Z",
               "EditorCaption": ""
@@ -74,14 +91,14 @@
               "RelativeDocumentMoniker": "authGuard\\Interface\\Iusers.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\Interface\\Iusers.cs",
               "RelativeToolTip": "authGuard\\Interface\\Iusers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T19:51:36.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "authGuard.http",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\authGuard.http",
               "RelativeDocumentMoniker": "authGuard\\authGuard.http",
@@ -89,12 +106,11 @@
               "RelativeToolTip": "authGuard\\authGuard.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-02-11T20:34:24.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T20:34:24.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\Models\\Users.cs",
               "RelativeDocumentMoniker": "authGuard\\Models\\Users.cs",
@@ -107,26 +123,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UserImplimentation.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\Services\\UserImplimentation.cs",
               "RelativeDocumentMoniker": "authGuard\\Services\\UserImplimentation.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\Services\\UserImplimentation.cs",
               "RelativeToolTip": "authGuard\\Services\\UserImplimentation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T19:51:42.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\Program.cs",
               "RelativeDocumentMoniker": "authGuard\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Prep_2026\\c#\\authGuard\\authGuard\\Program.cs",
               "RelativeToolTip": "authGuard\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T19:51:47.684Z",
               "EditorCaption": ""
