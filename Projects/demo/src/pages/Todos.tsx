@@ -9,13 +9,18 @@ type Todo = {
 
 export const Todos = () => {
   const [todoItem, setToDoItem] = useState<Todo[]>([]);
+  const [error, setError] = useState([]);
   const fetchTodos = async () => {
     try {
       const res = await fetch("https://jsonplaceholder.typicode.com/todos");
       const data = await res.json();
       setToDoItem(data);
-    } catch (error) {
-      setError("Failed to load todos");
+    } catch (error: unknown) {
+      if (error instanceof Error) {
+        setError(error.message);
+      } else {
+        setError("Something went wrong");
+      }
     }
   };
 
