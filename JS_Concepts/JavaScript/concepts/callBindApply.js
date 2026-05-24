@@ -18,3 +18,20 @@
 // const other = { firstName: "narayan" };
 
 // person.great.apply(other);
+const name = {
+  firstName: "krishnendu",
+  lastName: "Narayan",
+};
+
+const printName = function () {
+  console.log(this.firstName + " " + this.lastName);
+};
+
+const name2 = {
+  firstName: "krishnendu2",
+  lastName: "Narayan2",
+};
+
+const abc = printName.bind(name2);
+
+console.log(abc);
